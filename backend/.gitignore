@@ -1,0 +1,32 @@
+# Node.js / React
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.venv/
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment / cache
+*.egg-info/
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

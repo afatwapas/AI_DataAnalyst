@@ -1,0 +1,12 @@
+fastapi[all]
+langchain-experimental
+langchain-openai 
+pandas 
+python-dotenv
+tabulate
+langchain_google_genai
+matplotlib
+seaborn
+numpy
+scikit-learn
+scipy
